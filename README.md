@@ -107,6 +107,5 @@ Applied to:
 
 ## Credits
 Author: Kamil Maciejko <br>
-Author: Myszka Miki <br>
 8.03.2026 <br>
 Warsaw, SGH
