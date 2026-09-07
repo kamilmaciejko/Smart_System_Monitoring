@@ -108,4 +108,4 @@ Applied to:
 ## Credits
 Author: Kamil Maciejko <br>
 8.03.2026 <br>
-Warsaw, SGH
+Warsaw
